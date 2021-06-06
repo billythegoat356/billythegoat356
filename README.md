@@ -10,26 +10,54 @@
   <br>
   <br>
   <br>
+  <a href="https://billythegoat356.github.io">🌍 Mon site Web en cours de Développement 🌍</a>
+  <br>
+  <br>
   <a href="https://youtube.com/c/billythegoat356">📺 Ma chaîne YouTube 📺</a>
   <br>
   <a href="https://discord.gg/2fPXU3QSJN">💬 Mon serveur Discord 💬</a>
   <br>
   <a href="https://discord.com/api/oauth2/authorize?client_id=838754317790871565&permissions=34816&scope=bot">☢ Mon Bot Discord ☢</a>
   <br>
-  <br>
-  <img src="https://discord.c99.nl/widget/theme-4/791395106615721985.png">
 </p>
 
 -----
-### <p align="center">🛠 &nbsp;Mes Compétences</p>
+### <p align="center">🏆 &nbsp;Mes Compétences</p>
 <br>
-<p align="center">.
+<p align="center">
   🐍 J'apprends le Python depuis 4 mois 🐍
-  👨‍🎤
+  <br>
+  💠 J'apprends le Développement Web, pour créer mon propre site internet 💠
+  <br>
+  🔐 J'apprends la Cybersécurité pour pouvoir me protéger sur Internet 🔐
+  <br>
+  <br>
 </p>
 
+-----
+### <p align="center">📈 &nbsp;Mes Objectifs</p>
+<br>
+<p align="center">
+  🐍 Maitrîser le Python 🐍
+  <br>
+  💠 Maitrîser le Développement Web (html/css) 💠
+  <br>
+  🔐 Progresser en Cybersécurité 🔐
+  <br>
+  🎃 Apprendre le JavaScript 🎃
+  <br>
+  🌍 Développer mon propre site Web 🌍
+  <br>
+  <br>
+</p>
 
-
+-----
+### <p align="center">📞 &nbsp;Contact</p>
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/791395106615721985.png">
+  <br>
+  billythegoat356356@gmail.com
+</p>
 
 
 -----
