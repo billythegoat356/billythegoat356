@@ -12,14 +12,14 @@
   <br>
   <a href="https://billythegoat356.github.io">🌍 Mon site Web en cours de Développement 🌍</a>
   <br>
+  <a href="https://billy.loca.lt/">🎨 Mon Api 🎨</a>
+  <br>
   <br>
   <a href="https://youtube.com/c/billythegoat356/">📺 Ma chaîne YouTube 📺</a>
   <br>
   <a href="https://discord.gg/billy/">💬 Mon serveur Discord | discord.gg/billy 💬</a>
   <br>
   <a href="https://discord.com/api/oauth2/authorize?client_id=838754317790871565&permissions=34816&scope=bot/">☢ Mon Bot Discord ☢</a>
-  <br>
-  <a href="https://billy.loca.lt/">🎭 Mon Api 🎭</a>
   <br>
 </p>
 
