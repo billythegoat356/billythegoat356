@@ -19,7 +19,7 @@
   <br>
   <a href="https://discord.gg/billy/">💬 Mon serveur Discord | discord.gg/billy 💬</a>
   <br>
-  <a href="https://discord.com/api/oauth2/authorize?client_id=838754317790871565&permissions=34816&scope=bot/">☢ Mon Bot Discord ☢</a>
+  <a href="https://discord.com/api/oauth2/authorize?client_id=838754317790871565&permissions=34816&scope=bot">☢ Mon Bot Discord ☢</a>
   <br>
 </p>
 
