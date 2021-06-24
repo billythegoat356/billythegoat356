@@ -17,7 +17,7 @@
   <br>
   <a href="https://youtube.com/c/billythegoat356/">📺 Ma chaîne YouTube 📺</a>
   <br>
-  <a href="https://discord.gg/billy/">💬 Mon serveur Discord | discord.gg/plague 💬</a>
+  <a href="https://discord.gg/plague/">💬 Mon serveur Discord | discord.gg/plague 💬</a>
   <br>
   <a href="https://discord.com/api/oauth2/authorize?client_id=838754317790871565&permissions=34816&scope=bot">☢ Mon Bot Discord ☢</a>
   <br>
