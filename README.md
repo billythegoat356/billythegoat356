@@ -55,8 +55,8 @@
 
 -----
 ### <p align="center">📞 &nbsp;Contact</p>
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/791395106615721985.png">
+<p align="center" 
+  <img src="https://discord.c99.nl/widget/theme-4/809885234820415490.png">
   <br>
   billythegoat356356@gmail.com
 </p>
