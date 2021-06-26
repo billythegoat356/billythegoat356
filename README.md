@@ -1,4 +1,10 @@
 -----
+
+<p align = "center">
+<img src="https://cdn.discordapp.com/attachments/857335828011155490/858401080710922260/image0.gif">
+</p>
+
+-----
 ### <p align="center">🧠 &nbsp;Moi</p>
 <br>
 <p align="center">
