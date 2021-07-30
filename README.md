@@ -33,11 +33,11 @@
 ### <p align="center">🏆 &nbsp;Mes Compétences</p>
 <br>
 <p align="center">
-  🐍 J'apprends le Python depuis 4 mois 🐍
+  🐍 J'apprends le Python depuis 6 mois 🐍
   <br>
   💠 J'apprends le Développement Web, pour créer mon propre site internet 💠
   <br>
-  🔐 J'apprends la Cybersécurité pour pouvoir me protéger sur Internet 🔐
+  🔐 J'apprends la Cybersécurité 🔐
   <br>
   <br>
 </p>
