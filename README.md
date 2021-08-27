@@ -8,7 +8,7 @@
 ### <p align="center">🧠 &nbsp;Moi</p>
 <br>
 <p align="center">
-  J'ai 14 ans, j'apprends le développement et la cybersécurité 🙂
+  J'ai 15 ans, j'apprends le développement et la cybersécurité 🙂
   <br>
   <br>
   <br>
@@ -43,7 +43,7 @@
 </p>
 
 -----
-### <p align="center">📈 &nbsp;Mes Objectifs</p>
+### <p align="center">🔨 &nbsp;Mes Projets</p>
 <br>
 <p align="center">
   🐍 Maitrîser le Python 🐍
