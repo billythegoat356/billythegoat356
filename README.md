@@ -38,7 +38,7 @@
   🌌 Ouroboros
   <br>
   <br>
-  <img src="https://repository-images.githubusercontent.com/376834203/01709012-dad3-45a8-b001-a590fc2e9861", width="250", height="250">
+  <img src="https://repository-images.githubusercontent.com/376834203/fabd4d61-a358-4ff2-80ae-cb7044a90fd6", width="250", height="250">
   <br>
   <br>
   <br>
