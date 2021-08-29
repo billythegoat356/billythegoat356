@@ -31,7 +31,7 @@
   😈 Phobos
   <br>
   <br>
-  <img src="https://repository-images.githubusercontent.com/377591030/61be32a8-79ae-4ffb-b50f-07708d9ed59d", width="250", height="250">
+  <img src="https://repository-images.githubusercontent.com/377591030/4003263c-a405-4efc-b594-34e0825c3b53", width="250", height="250">
   <br>
   <br>
   <br>
@@ -59,7 +59,7 @@
   🔨 Jawbreaker
   <br>
   <br>
-  <img src="https://repository-images.githubusercontent.com/396419934/362e3de4-a2b6-490a-88c3-681f4ca38a31", width="250", height="250">
+  <img src="https://repository-images.githubusercontent.com/396419934/849cdfaf-fab7-4274-a792-d669524c31fe", width="250", height="250">
   <br>
 </p>
 
