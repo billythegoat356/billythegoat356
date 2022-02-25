@@ -16,5 +16,3 @@
   <img src="https://profile-counter.glitch.me/billythegoat356/count.svg" />
 </p>
 
-
-<img src="http://apollyon.plague.fun" />
